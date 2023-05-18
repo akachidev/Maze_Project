@@ -16,3 +16,8 @@ $ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflag
 ***
 ![maze-project](https://github.com/Princecodes4115/Maze_Project/assets/101392395/78b99351-e499-44c2-a42c-7e795e2ed82d)
 
+
+
+## Checkout the demo on youtube 
+*
+https://youtu.be/StLzNBzRuVw
